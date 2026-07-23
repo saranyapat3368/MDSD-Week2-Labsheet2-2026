@@ -400,9 +400,8 @@ flutter run
 **✏️ ทดลองแก้ไข B:** เปลี่ยน `fontSize: 24` เป็น `fontSize: 48` บันทึกไฟล์และสังเกตผล
 
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+![](https://github.com/user-attachments/assets/38a3d232-2dd8-4ea7-a3b2-568f042e002c)
+
 ---
 
 ### การทดลองที่ 2 — Layout Widgets: Column, Row, Container
