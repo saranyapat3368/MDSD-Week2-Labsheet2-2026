@@ -460,8 +460,27 @@ flutter run
 
 **บันทึกรูปผลการทดลอง**
 ```
-บันทึกรูปที่นี่
+MainAxisAlignment.start  
 ```
+![](https://github.com/user-attachments/assets/d62b4874-0e0c-4fd1-9d10-f0091393c799)
+
+```
+MainAxisAlignment.end
+```
+![](https://github.com/user-attachments/assets/f096d3fa-aa3c-437e-aa47-a548c80e95eb)
+
+```
+MainAxisAlignment.spaceBetween
+```
+![](https://github.com/user-attachments/assets/2c536a47-82f2-4d65-a069-860871cbb5e7)
+
+```
+MainAxisAlignment.spaceEvenly
+```
+![](https://github.com/user-attachments/assets/e6a13e21-e655-437a-b128-e99ab49a6d10)
+
+
+
 **✏️ ทดลองแก้ไข D:** ใน Row เพิ่ม Container D สีม่วง ขนาด 80×80 ต่อจาก C
 **บันทึกรูปผลการทดลอง**
 ```
